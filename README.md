@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm KaiInfinityZ
+# Hi there 👋 I'm Juka
 
 ### 🐍 Python Developer | 🤖 AI Enthusiast
 
