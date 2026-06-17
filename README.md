@@ -37,24 +37,7 @@ I build tools that run locally and give users full control. No cloud dependencie
 
 ### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌌 I.R.I.S.</h3>
-      <p>Local-first AI image generation engine. No cloud, no accounts, no telemetry. Runs entirely on your hardware.</p>
-      <a href="https://github.com/juukadev/iris">
-        <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="I.R.I.S.">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 SQLite Studio</h3>
-      <p>Professional SQLite Database Editor & Visual Schema Designer.</p>
-      <a href="https://github.com/juukadev/SQLite-Studio">
-        <img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=windows11&logoColor=white" alt="SQLite Studio">
-      </a>
-    </td>
-  </tr>
-</table>
+Non
 
 ---
 
