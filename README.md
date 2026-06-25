@@ -2,8 +2,6 @@
 
 # Hi there 👋 I'm Juka
 
-### 🐍 Python Developer | 🤖 AI Enthusiast
-
 <br>
 
 [![GitHub](https://img.shields.io/github/stars/juukadev?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/juukadev)
@@ -14,11 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I build tools that run locally and give users full control. No cloud dependencies, no telemetry — just software that works for you.
-
-- 🌌 Creator of **I.R.I.S.** — Local-first AI image generation engine
-- 📊 Creator of **SQLite Studio** — Professional SQLite Database Editor
-- 🔧 Languages: **Python**, **Java**, **JavaScript**, **React**
+IDK
 
 ---
 
